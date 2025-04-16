@@ -39,7 +39,7 @@ The results show that the dataset contains no null values.
 
 Unexpectedly, there are 640 duplicates in the dataset. We are going to remove those for better result during the analysis.
 
-**sale_df.drop_duplicates()**
+**sale_df.drop_duplicates()** <br/>
 **sale_df.shape**
 
 <img src="https://github.com/user-attachments/assets/67dd401d-f5df-404c-b2e6-93ddedaa60d9" alt="New rows and cloumns" width="50" height="20">
