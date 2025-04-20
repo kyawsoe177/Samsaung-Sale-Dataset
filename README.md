@@ -136,8 +136,7 @@ plt.show()
 <img src="https://github.com/user-attachments/assets/20a6947e-55f8-4430-b035-ca58b1eb4528" alt="Yearly Revenue" width="700" height="400"> 
 
 <p align="justify"> 2023 may reflect a failed strategy (high volume, low margins). Revenue rebounded to the highest level despite lower units sold than 2020-2023. <br/>
-Investigate 2022–2023: Why did high sales volume not translate to revenue? (e.g., over-discounting, operational costs?)
-Leverage 2024’s Success: Identify what drove higher revenue/unit (e.g., premium offerings, efficiency gains).</p>
+The year 2022-2023 should be investigated because high sales volume did not translate to revenue. On the other hand, 2024 drove high revenue despite of the lower units sold.</p>
 
 ## How does product model performance vary across different regions?
 
